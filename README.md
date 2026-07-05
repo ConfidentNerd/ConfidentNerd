@@ -28,6 +28,9 @@ A from-scratch implementation of data structures and algorithms in C, developed 
 #### [CS Degree Portfolio](https://github.com/ConfidentNerd/cs-degree-portfolio)
 A collection documenting some of my computer science degree projects.
 
+#### [LC Study Hub](https://github.com/ConfidentNerd/lc-study-hub)
+A suite of active recall tools for technical interview prep. Built to solve a real problem in my own studying.
+
 ---
 
 Feel free to send me a message or connect with me on [LinkedIn](https://www.linkedin.com/in/uri-naor/)!
