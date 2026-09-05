@@ -22,6 +22,9 @@ When I'm not coding or learning, you can find me hiking in nature, having some l
 
 ### 🛠️ Featured Repositories
 
+#### [Good2Know](https://github.com/ConfidentNerd/Good2Know)
+A fullstack mini-CMS built with React, Bun, Hono, and MongoDB. Admins write and publish pages through a rich-text editor, no HTML required.
+
 #### [C Data Structures and Algorithms](https://github.com/ConfidentNerd/c-data-structures-algorithms)
 A from-scratch implementation of data structures and algorithms in C, developed without AI during the Infinity Labs bootcamp.
 
