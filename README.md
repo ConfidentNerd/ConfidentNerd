@@ -25,14 +25,14 @@ When I'm not coding or learning, you can find me hiking in nature, having some l
 #### [Good2Know](https://github.com/ConfidentNerd/Good2Know)
 A fullstack mini-CMS built with React, Bun, Hono, and MongoDB. Admins write and publish pages through a rich-text editor, no HTML required.
 
+#### [LC Study Hub](https://github.com/ConfidentNerd/lc-study-hub)
+A suite of active recall tools for technical interview prep. Built to solve a real problem in my own studying.
+
 #### [C Data Structures and Algorithms](https://github.com/ConfidentNerd/c-data-structures-algorithms)
 A from-scratch implementation of data structures and algorithms in C, developed without AI during the Infinity Labs bootcamp.
 
 #### [CS Degree Portfolio](https://github.com/ConfidentNerd/cs-degree-portfolio)
 A collection documenting some of my computer science degree projects.
-
-#### [LC Study Hub](https://github.com/ConfidentNerd/lc-study-hub)
-A suite of active recall tools for technical interview prep. Built to solve a real problem in my own studying.
 
 ---
 
